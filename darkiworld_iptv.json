@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Sports"
+    },
+    {
+      "id": "2",
+      "name": "Films"
+    },
+    {
+      "id": "3",
+      "name": "Actualités"
+    }
+  ],
+  "channels": [
+    {
+      "id": "101",
+      "name": "ESPN",
+      "category_id": "1",
+      "stream_url": "https://example.com/espn.m3u8",
+      "icon": "https://example.com/icons/espn.png"
+    },
+    {
+      "id": "102",
+      "name": "beIN Sports",
+      "category_id": "1",
+      "stream_url": "https://example.com/beinsports.m3u8",
+      "icon": "https://example.com/icons/beinsports.png"
+    },
+    {
+      "id": "201",
+      "name": "HBO",
+      "category_id": "2",
+      "stream_url": "https://example.com/hbo.m3u8",
+      "icon": "https://example.com/icons/hbo.png"
+    },
+    {
+      "id": "301",
+      "name": "BBC News",
+      "category_id": "3",
+      "stream_url": "https://example.com/bbcnews.m3u8",
+      "icon": "https://example.com/icons/bbcnews.png"
+    }
+  ]
+}
